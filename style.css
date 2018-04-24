@@ -1,0 +1,43 @@
+.menu {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.banner {
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+    }
+.process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.designed {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.sections {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.subtitles {
+  font-family: 14px;
+  font-family: Helvetica;
+}
+.bgimage {
+  background-image: url("theflatironbuilding.png");
+}
