@@ -28,16 +28,27 @@
   font-size: 23px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 .sections {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 .subtitles {
   font-family: 14px;
   font-family: Helvetica;
+  text-align: center;
 }
 .bgimage {
   background-image: url("theflatironbuilding.png");
+}
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:link {
+  color: white;
 }
